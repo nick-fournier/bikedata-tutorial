@@ -1,0 +1,12 @@
+base
+data.table
+ggplot2
+factoextra
+rpart
+randomForest
+Matrix
+glmnet
+lattice
+caret
+nnet
+rpart.plot
